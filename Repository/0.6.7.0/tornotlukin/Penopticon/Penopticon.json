@@ -1,0 +1,14 @@
+{
+  "Name": "Penopticon",
+  "Owner": "tornotlukin",
+  "Description": "Makes the pen act as a plain mouse while chosen apps have focus (e.g. Illustrator, InDesign), and restores your normal pen setup such as Windows Ink everywhere else. Configure the app list in the Tools tab.",
+  "PluginVersion": "0.1.0.0",
+  "SupportedDriverVersion": "0.6.7.0",
+  "MaxSupportedDriverVersion": null,
+  "RepositoryUrl": "https://github.com/tornotlukin/otd-penopticon",
+  "DownloadUrl": "https://github.com/tornotlukin/otd-penopticon/releases/download/v0.1.0/Penopticon-0.1.0.zip",
+  "CompressionFormat": "zip",
+  "SHA256": "7aaf10c9eb345d6a70d2a22800e0c3da65ef39e5679036252f03a3a18d61db4a",
+  "WikiUrl": "https://github.com/tornotlukin/otd-penopticon/blob/main/README.md",
+  "LicenseIdentifier": "GPL-3.0-only"
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "Buttonalicious",
+    "Owner": "tornotlukin",
+    "Description": "Adds mouse-button clicking (and pen-channel tap synthesis) to pen barrel buttons when using the Windows Ink output mode. Single/double click, hold-and-tap, and a Pen Tap mode that synthesizes pen-channel clicks for Windows Ink apps.",
+    "PluginVersion": "0.3.0.0",
+    "SupportedDriverVersion": "0.6.7.0",
+    "MaxSupportedDriverVersion": null,
+    "RepositoryUrl": "https://github.com/tornotlukin/otd-buttonalicious",
+    "DownloadUrl": "https://github.com/tornotlukin/otd-buttonalicious/releases/download/v0.3.0/Buttonalicious-0.3.0.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "6520a421e9223d2f2c8900081dbeaafcbf599305af2c1bc8d931cec08b325825",
+    "WikiUrl": "https://github.com/tornotlukin/otd-buttonalicious/blob/main/README.md",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
